@@ -153,26 +153,28 @@
           rgb_matrix_set_color(14, 0xFF, 0x00, 0x00); // Print Screen
           break;
         case FN:
-          rgb_matrix_set_color(62, 0xFF, 0x00, 0x00); // C
-          rgb_matrix_set_color(63, 0xFF, 0x00, 0x00); // V
-          rgb_matrix_set_color(64, 0xFF, 0x00, 0x00); // B
-          rgb_matrix_set_color(76, 0xFF, 0x00, 0x00); // L Space
+          rgb_matrix_set_color(62, 0xFF, 0x00, 0x00); // C > redo
+          rgb_matrix_set_color(63, 0xFF, 0x00, 0x00); // V > shift
+          rgb_matrix_set_color(64, 0xFF, 0x00, 0x00); // B > ctrl
+          rgb_matrix_set_color(76, 0xFF, 0x00, 0x00); // L > Space
 
           //rgb_matrix_set_color(46, 0xFF, 0x00, 0x00); // S
-          rgb_matrix_set_color(47, 0xFF, 0x00, 0x00); // D
-          rgb_matrix_set_color(48, 0xFF, 0x00, 0x00); // F
-          rgb_matrix_set_color(49, 0xFF, 0x00, 0x00); // G          
-          rgb_matrix_set_color(50, 0xFF, 0x00, 0x00); // Backspace
+          rgb_matrix_set_color(47, 0xFF, 0x00, 0x00); // D > undo
+          rgb_matrix_set_color(48, 0xFF, 0x00, 0x00); // F > paste
+          rgb_matrix_set_color(49, 0xFF, 0x00, 0x00); // G > copy 
+          rgb_matrix_set_color(50, 0xFF, 0x00, 0x00); // Backspace > delete
 
-          rgb_matrix_set_color(51, 0xFF, 0x00, 0x00); // H
-          rgb_matrix_set_color(37, 0xFF, 0x00, 0x00); // I
-          rgb_matrix_set_color(52, 0xFF, 0x00, 0x00); // J
-          rgb_matrix_set_color(53, 0xFF, 0x00, 0x00); // K
-          rgb_matrix_set_color(54, 0xFF, 0x00, 0x00); // L
+          rgb_matrix_set_color(51, 0xFF, 0x00, 0x00); // H > =
+          rgb_matrix_set_color(35, 0xFF, 0x00, 0x00); // Y > {
+          rgb_matrix_set_color(36, 0xFF, 0x00, 0x00); // U > }
+          rgb_matrix_set_color(37, 0xFF, 0x00, 0x00); // I > up
+          rgb_matrix_set_color(52, 0xFF, 0x00, 0x00); // J > left
+          rgb_matrix_set_color(53, 0xFF, 0x00, 0x00); // K > down
+          rgb_matrix_set_color(54, 0xFF, 0x00, 0x00); // L > right
 
-          rgb_matrix_set_color(66, 0xFF, 0x00, 0x00); // N
-          rgb_matrix_set_color(67, 0xFF, 0x00, 0x00); // M
-          rgb_matrix_set_color(68, 0xFF, 0x00, 0x00); // ,
+          rgb_matrix_set_color(66, 0xFF, 0x00, 0x00); // N > _
+          rgb_matrix_set_color(67, 0xFF, 0x00, 0x00); // M > home
+          rgb_matrix_set_color(68, 0xFF, 0x00, 0x00); // , > end
           break;
         default:
           break;
