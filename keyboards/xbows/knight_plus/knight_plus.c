@@ -165,9 +165,9 @@
           rgb_matrix_set_color(50, 0xFF, 0x00, 0x00); // Backspace > delete
 
           rgb_matrix_set_color(51, 0xFF, 0x00, 0x00); // H > =
-          rgb_matrix_set_color(35, 0xFF, 0x00, 0x00); // Y > {
-          rgb_matrix_set_color(36, 0xFF, 0x00, 0x00); // U > }
+          rgb_matrix_set_color(36, 0xFF, 0x00, 0x00); // U > {
           rgb_matrix_set_color(37, 0xFF, 0x00, 0x00); // I > up
+          rgb_matrix_set_color(38, 0xFF, 0x00, 0x00); // O > }
           rgb_matrix_set_color(52, 0xFF, 0x00, 0x00); // J > left
           rgb_matrix_set_color(53, 0xFF, 0x00, 0x00); // K > down
           rgb_matrix_set_color(54, 0xFF, 0x00, 0x00); // L > right
