@@ -158,7 +158,7 @@
           rgb_matrix_set_color(64, 0xFF, 0x00, 0x00); // B
           rgb_matrix_set_color(76, 0xFF, 0x00, 0x00); // L Space
 
-          rgb_matrix_set_color(46, 0xFF, 0x00, 0x00); // S
+          //rgb_matrix_set_color(46, 0xFF, 0x00, 0x00); // S
           rgb_matrix_set_color(47, 0xFF, 0x00, 0x00); // D
           rgb_matrix_set_color(48, 0xFF, 0x00, 0x00); // F
           rgb_matrix_set_color(49, 0xFF, 0x00, 0x00); // G          
